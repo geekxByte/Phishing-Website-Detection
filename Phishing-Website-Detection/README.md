@@ -1,5 +1,3 @@
-https://chamanthmvs.github.io/Phishing-Website-Detection/
-
 ## Phishing-Website-Detection
 
 Financial industry involves an extremely high volume of real time online transactions. This makes vulnerable to fraud. Fraud detection is using security measures to prevent third parties from obtaining funds. This process involves a manual check and automated verification of transaction details to spot any unusual activity that may be a sign of attack and block it.
